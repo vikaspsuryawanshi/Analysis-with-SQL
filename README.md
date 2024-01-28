@@ -1,4 +1,4 @@
-############# PROJECT Analysis with SQL ################
+############# Project Analysis with SQL ################
 
 This repository contains SQL scripts and analysis for a music database. The database includes information about bands, 
 albums, and songs. The goal of this assignment is to perform various queries and operations on the database to gain insights into the music data.
@@ -52,9 +52,4 @@ Find the albums released between 2008 and 2013.
 GitHub Repository
 This repository contains all the SQL scripts used for database creation, data population, and analysis.
 
-GitHub Link: Analysis with SQL
-
-Additional Notes
-Ensure you have MySQL Workbench installed to execute the scripts.
-Make sure to follow the instructions sequentially.
-If any issues are encountered, check for errors and troubleshoot accordingly.
+GitHub Link: [Analysis with SQL](https://github.com/vikaspsuryawanshi/Analysis-with-SQL.git)
